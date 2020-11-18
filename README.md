@@ -2,8 +2,7 @@
 
 ## Project setup
 ```
-#joj
-#jojsnlslä
+
 npm install
 ```
 
